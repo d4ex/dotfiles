@@ -1,0 +1,14 @@
+#[general]
+#default_icon = "📄"
+
+[icons]
+#firefox = "🌍"
+firefox = ""
+Gnome-terminal = ""
+#jetbrains-idea = "📄"
+jetbrains-idea = ""
+
+[options]
+#no_names = true
+remove_duplicates = true
+no_icon_names = true
